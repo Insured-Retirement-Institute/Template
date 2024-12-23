@@ -9,7 +9,7 @@ OpenAPI definitions can be found on [SwaggerHub](https://app.swaggerhub.com/apis
 Specifications can be downloaded directly from the [repository](/Specifications).
 
 ## Current specifications
-The Producer CanSell and ActivityStatus APIs were industry created however ACORD assisted in the API specs. Until we can determine the IP on these, they will remain off of this platform. 
+Pending resolution of certain open questions, the Producer CanSell and ActivityStatus APIs are not and will not be included on this platform. Users will be notified if and when these APIs are added to the platform.”
 <!-- This section is commented out and won't show up -->
 <!-- 
 
