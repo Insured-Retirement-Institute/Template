@@ -9,10 +9,14 @@ OpenAPI definitions can be found on [SwaggerHub](https://app.swaggerhub.com/apis
 Specifications can be downloaded directly from the [repository](/Specifications).
 
 ## Current specifications
+The Producer CanSell and ActivityStatus APIs were industry created however ACORD assisted in the API specs. Until we can determine the IP on these, they will remain off of this platform. 
+<!-- This section is commented out and won't show up -->
+<!-- 
+
 - Producer Can Sell | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Producer%20Can%20Sell%20(under%20construction)/post_producer_can_sells_searches) [[Download]](/Specifications/Producer%20Can%20Sell)
 - Activity Status | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Policy%20Activity%20Status%20(under%20construction)/post_policy_statuses_searches) [[Download]](/Specifications/Activity%20Status)
 - Replacements | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Policy%20Replacements%20(under%20construction)) [[Download]](/Specifications/Replacements)
-
+-->
 ## Specifications under development
 - Producer Training | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Producer%20Trainings) [[Download]](/Specifications/Producer%20Training)
 
