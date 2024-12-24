@@ -9,7 +9,7 @@ OpenAPI definitions can be found on [SwaggerHub](https://app.swaggerhub.com/apis
 Specifications can be downloaded directly from the [repository](/Specifications).
 
 ## Current specifications
-Pending resolution of certain open questions, the Producer CanSell and ActivityStatus APIs are not and will not be included on this platform. Users will be notified if and when these APIs are added to the platform.”
+Pending resolution of certain open questions, the Producer CanSell and ActivityStatus APIs are not and will not be included on this platform. Users will be notified if and when these APIs are added to the platform.
 <!-- This section is commented out and won't show up -->
 <!-- 
 
@@ -19,6 +19,10 @@ Pending resolution of certain open questions, the Producer CanSell and ActivityS
 -->
 ## Specifications under development
 - Producer Training | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Producer%20Trainings) [[Download]](/Specifications/Producer%20Training)
+
+## Goverance of the Standards 
+
+`coming soon` The Platform Steering committee meeting is scheduled for 1/10. Contact Kdease@irionline if you want to join. 
 
 ## How to engage, contribute, and give feedback
 
