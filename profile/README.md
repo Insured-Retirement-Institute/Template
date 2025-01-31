@@ -19,6 +19,8 @@ The Producer CanSell and ActivityStatus APIs are not and will not be included on
 -->
 ## Specifications under development
 - Producer Training | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Producer%20Trainings) [[Download]](/Specifications/Producer%20Training)
+- Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
+- Hackathon logistics | [[Definition]](https://github.com/Insured-Retirement-Institute/Hackathon)
 
 ## Goverance of the Standards 
 
