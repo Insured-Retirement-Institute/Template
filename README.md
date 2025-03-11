@@ -1,19 +1,15 @@
-# Insured Retirement Institute Sandbox
+# Define repoistory name
 
-IRI Connect is an open-source framework for API standardization across the annuity insurance industry.
+Define description.
 
 ## Get started
+We are currently in the process of standing up [SwaggerHub](https://wwww.swaggerhub.com) to host OpenAPI definitions. More to come.
 
-OpenAPI definitions will likely be posted to [SwaggerHub](https://wwww.swaggerhub.com).
-
-Specifications can be downloaded directly from the [repository](#).
+Please refer to the [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the code of conduct.
 
 ## Business Case
 Define your business case for the specification.
-<!-- This section is commented out and won't show up -->
-<!-- 
 
--->
 ## User Stories, personna - supporting documents for the business case
 - Load your user stories, personna - supporting documents for the business case.
 
@@ -22,16 +18,14 @@ Define your business case for the specification.
 - Distributor Business Owner: contact
 - Solution Provider Business Owner: contact
 
-
 ## How to engage, contribute, and give feedback
 - These working groups are occuring on ....
 - Please contact the business owners or IRI (hpikus@irionline.org) to get added to the working group discussions. 
 
+## Change subsmissions and reporting issues and bugs
 
-## Reporting security issues and bugs
- - Technical team for 2025
- - Contacts: `coming soon`
+Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of a repository. Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
 
 ## Code of conduct
 
-`coming soon`
+See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide)
