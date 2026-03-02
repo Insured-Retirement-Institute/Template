@@ -5,7 +5,7 @@ Define description.
 ## Get started
 We are currently in the process of standing up [SwaggerHub](https://wwww.swaggerhub.com) to host OpenAPI definitions. More to come.
 
-Please refer to the [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the code of conduct.
+Please refer to the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository for technical governance of standards, data dictionary, and the code of conduct.
 
 ## Business Case
 Define your business case for the specification.
@@ -28,4 +28,4 @@ Security issues and bugs should be reported directly to Katherine Dease kdease@i
 
 ## Code of conduct
 
-See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide)
+See [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository
