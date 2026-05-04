@@ -6,9 +6,7 @@
 
 ## Draft API Specifications
 
-The working group's draft OpenAPI specification is in the [draft-api-specs](./draft-api-specs) directory.  Once the API specification has been reviewed and approved by the [Governance Committee](https://www.irionline.org/member-programs/operations-technology/committee-hub/governance/), it will be moved into the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository and published at [specs.dfa.irionline.org](https://specs.dfa.irionline.org).
-
-Please refer to the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository for technical governance of standards, data dictionary, and the code of conduct.
+The working group's draft OpenAPI specification is in the [draft-api-specs](./draft-api-specs) directory.  See [README.md](draft-api-specs/README.md) for more details.
 
 ## Draft Business Case
 
@@ -32,7 +30,7 @@ The working group's draft business case documentation is available in this repos
 
 ## Change subsmissions and reporting issues and bugs
 
-Security issues and bugs should be reported directly to Hannah Pikus at hpikus@irionline.org. Issues and bugs can be reported directly within the issues tab of a repository. Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
+Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of a repository. Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
 
 ## Code of conduct
 
